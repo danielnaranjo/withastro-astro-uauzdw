@@ -7,9 +7,9 @@ followMe:
   username: "bholmesdev"
   href: "https://twitter.com/bholmesdev"
 halfTheMeaning: 21
-heroImage:
-  src: "/assets/blog/introducing-astro.jpg"
-  alt: "Space shuttle leaving curved trail in the sky"
+# heroImage:
+#  src: "/assets/blog/introducing-astro.jpg"
+# alt: "Space shuttle leaving curved trail in the sky"
 setup: |
   import LikeButton from "../../components/LikeButton"
   import FollowMe from "../../components/FollowMe.astro"
